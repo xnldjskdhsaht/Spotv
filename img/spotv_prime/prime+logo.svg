@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="22" viewBox="0 0 92 22">
+  <g id="그룹_1908" data-name="그룹 1908" transform="translate(-1160 -838)">
+    <rect id="사각형_632" data-name="사각형 632" width="92" height="22" transform="translate(1160 838)" fill="#fff" opacity="0"/>
+    <g id="Prime__logo" data-name="Prime+_logo" transform="translate(1103.08 840)">
+      <g id="그룹_1860" data-name="그룹 1860" transform="translate(0 0)">
+        <path id="패스_1282" data-name="패스 1282" d="M326.437,13.543H313.9a3.443,3.443,0,0,0-3.443,3.443V27.5h2.984V16.527h5.178V27.5h2.984V16.527H326.9V27.5h2.984V16.986a3.443,3.443,0,0,0-3.443-3.443" transform="translate(-214.382 -9.352)" fill="#fff"/>
+        <rect id="사각형_611" data-name="사각형 611" width="2.984" height="13.955" transform="translate(91.002 4.191)" fill="#fff"/>
+        <path id="패스_1283" data-name="패스 1283" d="M396.647,21.9V16.986a3.442,3.442,0,0,0-3.443-3.443h-9.4a3.442,3.442,0,0,0-3.443,3.443v7.07A3.442,3.442,0,0,0,383.8,27.5h12.843V24.515H383.8a.459.459,0,0,1-.459-.459V21.9Zm-13.3-4.912a.459.459,0,0,1,.459-.459h9.4a.459.459,0,0,1,.459.459v1.928H383.345Z" transform="translate(-262.649 -9.352)" fill="#fff"/>
+        <path id="패스_1284" data-name="패스 1284" d="M242.861,16.986V27.5h2.984V16.986a.46.46,0,0,1,.459-.459h8.857l1.923-2.984H246.3a3.443,3.443,0,0,0-3.443,3.443" transform="translate(-167.702 -9.352)" fill="#fff"/>
+        <rect id="사각형_612" data-name="사각형 612" width="2.984" height="3.007" transform="translate(91.002)" fill="#fff"/>
+        <path id="패스_1285" data-name="패스 1285" d="M196.833,0H183.925V18.147h2.984V11.959h9.924c1.9,0,3.443-2,3.443-3.9V3.443A3.443,3.443,0,0,0,196.833,0m.459,8.975H186.924V2.984h10.367Z" transform="translate(-127.005 0)" fill="#fff"/>
+        <path id="패스_1286" data-name="패스 1286" d="M453.728,4.632H449.1V0h-2.471V4.632h-4.632V7.1h4.632v4.632H449.1V7.1h4.632Z" transform="translate(-305.208 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

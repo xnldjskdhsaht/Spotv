@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Spotv/static/css/main.c6f069af.css",
+    "main.js": "/Spotv/static/js/main.51c41783.js",
+    "static/js/453.01e28f4c.chunk.js": "/Spotv/static/js/453.01e28f4c.chunk.js",
+    "static/media/bg_center.png": "/Spotv/static/media/bg_center.ba2d3d6240a4ef9688f4.png",
+    "static/media/bg.jpg": "/Spotv/static/media/bg.a1eeddfc83f1a5a9daf9.jpg",
+    "static/media/bg_top.png": "/Spotv/static/media/bg_top.1d017bca467b55bd7105.png",
+    "static/media/bg_bottom.png": "/Spotv/static/media/bg_bottom.3ad58ac23623352d3d42.png",
+    "static/media/slick.svg": "/Spotv/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Spotv/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Spotv/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Spotv/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Spotv/index.html",
+    "main.c6f069af.css.map": "/Spotv/static/css/main.c6f069af.css.map",
+    "main.51c41783.js.map": "/Spotv/static/js/main.51c41783.js.map",
+    "453.01e28f4c.chunk.js.map": "/Spotv/static/js/453.01e28f4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f069af.css",
+    "static/js/main.51c41783.js"
+  ]
+}
